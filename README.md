@@ -1,4 +1,4 @@
 # ITunes-Json
 
-Довольное простое приложение для поиска треков в iTunes. 
-Использован URLSession и SDWebImage
+Довольное незамысловатое приложение для поиска треков в iTunes. 
+Использованы URLSession и SDWebImage
